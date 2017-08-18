@@ -125,7 +125,7 @@
             </goals>
             <configuration>
               <files>
-                <file>Env.properties</file>
+                <file>HelloWorld/Env.properties</file>
               </files>
             </configuration>
           </execution>
